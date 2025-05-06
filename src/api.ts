@@ -7,7 +7,7 @@ import { IForm } from "./components/LoginModal";
 
 
 const instance = axios.create({
-    baseURL: "http://127.0.0.1:8000/api/v1/",
+    baseURL: "https://board-0h8i.onrender.com/api/v1/",
     withCredentials: true,
 })
 
