@@ -1,6 +1,7 @@
 module.exports = {
   extends: [
     "react-app",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "prettier",
   ]
 }
