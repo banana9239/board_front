@@ -14,7 +14,7 @@ export default function SocialLogin(){
             </HStack>
             <VStack>
                 <LightMode>
-                    <Button as={"a"} href="https://github.com/login/oauth/authorize?client_id=Ov23liduaLQ9hsV8PA29&scope=read:user,user:email" w="100%" colorScheme="red" leftIcon={<FaGithub/>}>github</Button>
+                    <Button as={"a"} href="https://github.com/login/oauth/authorize?client_id=Iv23liJ0sUDaHyhdk9pf&scope=read:user,user:email" w="100%" colorScheme="red" leftIcon={<FaGithub/>}>github</Button>
                     <Button w="100%" colorScheme="green" leftIcon={<RiKakaoTalkFill/>}>kakao</Button>
                 </LightMode>
             </VStack>
